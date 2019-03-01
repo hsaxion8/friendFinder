@@ -1,0 +1,38 @@
+body {
+    background-image: url(../images/background2.jpeg);
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 48px;
+    font-family: 'Yatra One', cursive;
+    margin-top: 12%;
+}
+.info {
+    text-align: center;
+    color: white;
+    font-size: 34px;
+    font-family: 'Concert One', cursive;
+}
+h2 {
+    color: white;
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+h3 {
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+h4 {
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 28px;
+}
+form {
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
